@@ -42,4 +42,25 @@ export class NoComunesComponent{
     direccion:'México, México'
   }
 
+  heroes=[
+    {
+    nombre:'Superman',
+    vuela:true
+  },
+    {
+    nombre:'Batman',
+    vuela:false
+  },
+    {
+    nombre:'Aquaman',
+    vuela:false
+  },
+    {
+    nombre:'Wonder Woman',
+    vuela:true
+  },
+]
+
+
+
 }
